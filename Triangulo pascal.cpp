@@ -1,8 +1,3 @@
-/*Elaborado por: 
-Dylan Maykol Puertas Girón 
-6902510052
-*/
-
 #include <iostream>
 #include <cmath>
 #include <stdlib.h>
@@ -50,3 +45,4 @@ int main(){
 	}
 	return 0;
 }
+
