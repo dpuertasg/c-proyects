@@ -1,8 +1,3 @@
-/*Elaborado por: 
-Dylan Maykol Puertas Girón 
-6902510052
-*/
-
 #include <iostream>
 #include <cmath>
 #include <string>
@@ -50,4 +45,5 @@ cout<<n1<<" es el maximo comun divisor";
 	return 0;
 }
  
+
 
